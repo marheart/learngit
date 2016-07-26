@@ -5,4 +5,8 @@ add a line
 add b line
 Creating a new branch is quick.
 add something
+Updated upstream
 add b
+
+add a
+Stashed changes
