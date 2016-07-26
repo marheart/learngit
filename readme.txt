@@ -5,3 +5,4 @@ add a line
 add b line
 Creating a new branch is quick.
 add something
+add b
